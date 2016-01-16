@@ -6,7 +6,6 @@ NOTE: You must open skype at least one time after installing it BEFORE running t
 
 # Run in Terminal:
  - git clone https://github.com/falconscript/Skype-Dark-Recolor.git
- - chmod 777 Skype-Dark-Recolor/skypeEdit.sh
  - Skype-Dark-Recolor/skypeEdit.sh
 
 It takes like 10 seconds to complete.
